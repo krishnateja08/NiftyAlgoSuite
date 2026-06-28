@@ -1,11 +1,6 @@
 {
-  "updated": "2026-06-28T13:05:11Z",
+  "updated": "2026-06-28T15:07:14Z",
   "data": {
-    "sp": {
-      "price": 7354.02,
-      "chgPct": -0.05,
-      "src": "GHA"
-    },
     "ndq": {
       "price": 25297.62,
       "chgPct": -0.24,
@@ -17,8 +12,8 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 94.3,
-      "chgPct": -0.09,
+      "price": 94.39,
+      "chgPct": 0.0,
       "src": "GHA"
     },
     "crude": {
@@ -162,5 +157,7 @@
       "src": "GHA"
     }
   },
-  "errors": []
+  "errors": [
+    "sp: Too Many Requests. Rate limited. Try after a while."
+  ]
 }
