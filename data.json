@@ -1,34 +1,39 @@
 {
-  "updated": "2026-07-08T12:09:36Z",
+  "updated": "2026-07-08T15:03:30Z",
   "data": {
+    "sp": {
+      "price": 7441.67,
+      "chgPct": -0.82,
+      "src": "GHA"
+    },
     "ndq": {
-      "price": 25818.69,
-      "chgPct": -1.16,
+      "price": 25638.83,
+      "chgPct": -0.7,
       "src": "GHA"
     },
     "dji": {
-      "price": 52925.15,
-      "chgPct": -0.25,
+      "price": 52141.77,
+      "chgPct": -1.46,
       "src": "GHA"
     },
     "inr": {
-      "price": 95.56,
-      "chgPct": 0.63,
+      "price": 95.54,
+      "chgPct": 0.62,
       "src": "GHA"
     },
     "crude": {
-      "price": 74.09,
-      "chgPct": 2.53,
+      "price": 75.34,
+      "chgPct": 4.26,
       "src": "GHA"
     },
     "gold": {
-      "price": 4070.7,
-      "chgPct": -1.52,
+      "price": 4053.5,
+      "chgPct": -1.94,
       "src": "GHA"
     },
     "silver": {
-      "price": 59.1,
-      "chgPct": -2.76,
+      "price": 58.22,
+      "chgPct": -4.2,
       "src": "GHA"
     },
     "n50": {
@@ -107,57 +112,55 @@
       "src": "GHA"
     },
     "u_AAPL": {
-      "price": 310.66,
-      "chgPct": -0.24,
+      "price": 309.21,
+      "chgPct": -0.71,
       "src": "GHA"
     },
     "u_MSFT": {
-      "price": 388.84,
-      "chgPct": 0.2,
+      "price": 382.74,
+      "chgPct": -1.37,
       "src": "GHA"
     },
     "u_NVDA": {
-      "price": 196.93,
-      "chgPct": 0.53,
+      "price": 198.82,
+      "chgPct": 1.5,
       "src": "GHA"
     },
     "u_AMZN": {
-      "price": 245.98,
-      "chgPct": 0.33,
+      "price": 241.16,
+      "chgPct": -1.64,
       "src": "GHA"
     },
     "u_GOOGL": {
-      "price": 367.03,
-      "chgPct": 0.08,
+      "price": 361.34,
+      "chgPct": -1.48,
       "src": "GHA"
     },
     "u_META": {
-      "price": 615.58,
-      "chgPct": -0.23,
+      "price": 601.96,
+      "chgPct": -2.43,
       "src": "GHA"
     },
     "u_TSLA": {
-      "price": 402.9,
-      "chgPct": -0.22,
+      "price": 392.07,
+      "chgPct": -2.9,
       "src": "GHA"
     },
     "u_BRK": {
-      "price": 504.0,
-      "chgPct": -0.09,
+      "price": 500.6,
+      "chgPct": -0.76,
       "src": "GHA"
     },
     "u_JPM": {
-      "price": 339.22,
-      "chgPct": 0.21,
+      "price": 332.56,
+      "chgPct": -1.75,
       "src": "GHA"
     },
     "u_UNH": {
-      "price": 428.19,
-      "chgPct": 0.03,
+      "price": 427.2,
+      "chgPct": -0.2,
       "src": "GHA"
     }
   },
-  "errors": [
-    "sp: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-  ]
+  "errors": []
 }
